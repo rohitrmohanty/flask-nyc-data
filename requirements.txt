@@ -1,0 +1,4 @@
+# This file contains all the required packages for running the application
+Flask
+python-dotenv
+watchdog
